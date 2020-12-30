@@ -21,5 +21,5 @@ unexpected ways or breaches any limits
 9. The file is accessed by multi-threading
 
 
-Go through the accessing.py file that is attached here with in order to understand clearly how 
+Go through the implementaion.py file that is attached here with in order to understand clearly how 
 the code works and how to perform operations in this. 
